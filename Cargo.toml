@@ -1,0 +1,15 @@
+[package]
+name = "oxidizer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+name = "oxidizer"
+path = "src/lib.rs"
+
+[dependencies]
+instant = "0.1.12"
+softbuffer = "0.4.1"
+timer = "0.2.0"
+winit = "0.29.10"
