@@ -1,6 +1,6 @@
 # Oxidizing - Rusty Processing
 
-Oxidizing is inspired by processing.js. It is intended to be a simple framework
+Oxidizing is inspired by processing and p5.js. It is intended to be a simple framework
 for writing beautiful visualizations using Rust.
 
 ## Usage
